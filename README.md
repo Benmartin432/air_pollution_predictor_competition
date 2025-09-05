@@ -14,7 +14,7 @@ rush hour and seasonal indicators, and
 60+ engineered features total.
 
 **Tech Stack**
-Python, scikit-learn, pandas, numpy, Gradient boosting, feature engineering, cross-validation
+Python, scikit-learn, pandas, numpy, gradient boosting, feature engineering, cross-validation
 
 ## Results
 | Model | CV Score | Leaderboard |
