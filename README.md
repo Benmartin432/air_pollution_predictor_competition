@@ -1,5 +1,6 @@
 # Air Pollution Predictor Competition
 **BitGrit Global Air Pollution Prediction Competition:** Predicting air pollution levels using spatial and temporal features.
+
 **Final Model Accuracy Score:** 87.67%, within 3% of 1st place (90.59%)
 
 **Problem & Data**
@@ -22,6 +23,7 @@ Python, scikit-learn, pandas, numpy, Gradient boosting, feature engineering, cro
 | V2    | 98.09%   | 87.26%     |
 | V3    | 98.18%   | 86.54%     |
 | V4    | 98.74%   | 85.93%     |
+
 
 **Key Learning:** Higher model complexity led to worse generalization. Simpler models performed better on unseen data. Demonstrated the importance of validation strategies that account for temporal and spatial data distribution shifts.
 
