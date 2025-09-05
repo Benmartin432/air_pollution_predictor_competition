@@ -8,10 +8,10 @@ Dataset: 7,649 training samples, 2,739 test samples
 (*Data will not be shown per competition guidelines)
 
 **Feature Engineering**
-Cyclical encodings for temporal patterns
-Geographic transformations and interactions
-Rush hour and seasonal indicators
-60+ engineered features total
+Cyclical encodings for temporal patterns,
+geographic transformations and interactions,
+rush hour and seasonal indicators, and
+60+ engineered features total.
 
 **Tech Stack**
 Python, scikit-learn, pandas, numpy, Gradient boosting, feature engineering, cross-validation
