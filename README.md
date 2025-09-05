@@ -1,5 +1,5 @@
 # Air Pollution Predictor Competition
-**BitGrit Global Air Pollution Prediction Competition:** Predicting air pollution levels using spatial and temporal features.
+**BitGrit Global Air Pollution Prediction Competition:** Predicting air pollution levels using spatial and temporal features. Competed against over 425+ teams.
 
 **Final Model Accuracy Score:** 87.67%, within 3% of 1st place (90.59%)
 
