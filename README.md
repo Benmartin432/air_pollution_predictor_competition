@@ -1,7 +1,7 @@
 # Air Pollution Predictor Competition
 **BitGrit Global Air Pollution Prediction Competition:** Predicting air pollution levels using spatial and temporal features. Competed against over 425+ teams.
 
-**Final Model Accuracy Score:** 87.67%, within 3% of 1st place (90.59%)
+**Final Model Accuracy Score:** 87.67%, within 3% accuracry of 1st place (90.59%), finishing in the top 10% of the leaderboard.
 
 **Problem & Data**
 Dataset: 7,649 training samples, 2,739 test samples
