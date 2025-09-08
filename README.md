@@ -25,5 +25,5 @@ Python, scikit-learn, pandas, numpy, gradient boosting, feature engineering, cro
 | V4    | 98.74%   | 85.93%     |
 
 
-**Key Learning:** Higher model complexity led to worse generalization. Simpler models performed better on unseen data. Demonstrated the importance of validation strategies that account for temporal and spatial data distribution shifts.
+**Key Learning:** Higher model complexity led to worse generalization. Simpler models performed better on unseen data. Demonstrated the importance of validation strategies that account for temporal and spatial data distribution shifts. NOTE: I completed this in a day, more time is needed to test and enhance a better fitted model.
 
